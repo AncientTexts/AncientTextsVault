@@ -110,6 +110,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "Ancient Texts.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -119,7 +120,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks"
+              "title": "Backlinks for Ancient Texts"
             }
           },
           {
@@ -128,11 +129,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "Ancient Texts.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "Outgoing links"
+              "title": "Outgoing links from Ancient Texts"
             }
           },
           {
@@ -170,12 +172,13 @@
             "state": {
               "type": "outline",
               "state": {
+                "file": "Ancient Texts.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline"
+              "title": "Outline of Ancient Texts"
             }
           }
         ]
@@ -196,8 +199,14 @@
       "bases:Create new base": false
     }
   },
-  "active": "9709139ead87182e",
+  "active": "fdd829ce491866a5",
   "lastOpenFiles": [
+    "Strategy & Next Steps.md",
+    "Pipeline - How It Works.md",
+    "Infrastructure.md",
+    "Books Published.md",
+    "Business Overview.md",
+    "README.md",
     "Ancient Texts.md",
     "Welcome.md"
   ]
